@@ -1,0 +1,31 @@
+.heading{
+    font-weight:100;
+    font-size:4em;
+    text-shadow:1px 1px 5px #351717;
+    text-align:left;
+    font-family: 'Playfair Display', serif;
+    color: blanchedalmond;
+}
+
+.text{
+    font-size:32px;
+    font-style:italic;
+}
+
+img{
+    height:90%;
+    width:100%;
+    border-radius: 8px;
+
+}
+
+.jumbotron {
+    background-image: url("alex-knight-2EJCSULRwC8-unsplash.jpg");
+    /* background-size: cover; */
+    background-size: 100% 100%;
+  }
+
+.cap {
+    color: whitesmoke;
+}
+
